@@ -61,7 +61,7 @@ Requires: git, gh (for release), npm (for publish). All commands support --dry-r
 
 ## Checklist before posting
 
-- [ ] `@korykaai/shipkit` published on npm
-- [ ] `shipkit preflight` passes on a real repo
-- [ ] README shows collab-kit pairing
-- [ ] Pin shipkit on GitHub profile
+- [x] `@korykaai/shipkit` published on npm
+- [x] `shipkit preflight` passes on a real repo
+- [x] README shows collab-kit pairing
+- [ ] Pin shipkit on GitHub profile (manual — see below)
