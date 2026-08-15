@@ -1,3 +1,7 @@
+# shipkit
+
+> **Moved:** Active development is at [topdaily-dev/shipkit](https://github.com/topdaily-dev/shipkit) (`@topdaily-dev/shipkit` on npm). This repo is kept for history.
+
 <p align="center">
   <a href="https://github.com/kory-kaai/shipkit/actions/workflows/ci.yml"><img src="https://github.com/kory-kaai/shipkit/actions/workflows/ci.yml/badge.svg" alt="CI"></a>
   <a href="https://www.npmjs.com/package/@korykaai/shipkit"><img src="https://img.shields.io/npm/v/@korykaai/shipkit.svg" alt="npm version"></a>
