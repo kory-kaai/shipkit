@@ -17,3 +17,5 @@ jobs:
           node-version: "22"
 
       - run: npm test
+
+# CI for shipkit; init sibling repos via collab-kit oss-toolchain.
