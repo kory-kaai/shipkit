@@ -25,3 +25,5 @@ feat: add dry-run support to publish
 fix: handle repos without tags
 docs: update release examples
 ```
+
+Bootstrap with @korykaai/collab-kit init . --oss-toolchain.
