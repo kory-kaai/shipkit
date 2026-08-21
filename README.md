@@ -22,3 +22,5 @@ Part of the TopDaily Dev OSS stack with [repomark](https://github.com/topdaily-d
 ```bash
 npx @korykaai/collab-kit init . --oss-toolchain
 ```
+
+> **npm is live:** https://www.npmjs.com/package/@topdaily-dev/shipkit
