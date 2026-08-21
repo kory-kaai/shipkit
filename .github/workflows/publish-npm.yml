@@ -37,3 +37,5 @@ jobs:
       - name: Publish to npm
         if: steps.check.outputs.skip != 'true'
         run: npm publish --provenance --access public
+
+# Publish @topdaily-dev/shipkit after collab-kit release docs.
